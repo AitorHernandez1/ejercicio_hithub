@@ -9,3 +9,4 @@ seguiresmos estos pasos:
 1:
 2:
 3:analizar los datos
+4:y algunas visualizaciones
